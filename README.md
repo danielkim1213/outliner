@@ -1,4 +1,4 @@
-# Outliner
+# Course Outliner
 
 Drop a term's worth of course-outline PDFs and get back the dates that matter and how you're graded — a weekly calendar with exams, quizzes and due-date countdowns, a mark-breakdown calculator that handles "better of two schemes" grading, and a contact sheet with office hours.
 
